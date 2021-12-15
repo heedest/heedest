@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heedest(Param)
+- 👋 Hi, I’m @heedest(Paramjeet)
 - 👀 Interested in Testing,QA,Automation Role
 
 
