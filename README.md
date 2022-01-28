@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heedest(Param)
-- 👀 Interested in Testing,QA,Automation Role
+- :technologist:Testing & Automation :technologist:
 
 
 
